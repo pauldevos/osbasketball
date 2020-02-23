@@ -10,3 +10,10 @@
   - By NCAA Division
   - By NBA
   
+#### Postgres (RDS)
+- Row Level Security (RLS)
+
+#### API
+- Return JSON
+  - Single Page App
+  - All Data is rendered in browser, similar to nba.com
